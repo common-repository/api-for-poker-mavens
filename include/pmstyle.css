@@ -1,0 +1,48 @@
+div.pmapi-login
+{
+    width: 120px;
+    height: 90px;
+}
+
+div.pmapi-loginavatar {
+	position: absolute;
+    top: 0px;
+    right: 0;
+	width: 50px;
+    height: 70px;
+}
+
+div.pmapi-loginsignout {
+	position: absolute;
+    top: 35px;
+    float: left;
+	width: 100px;
+    height: 35px;
+}
+div.pmapi-loginplay {
+	position: absolute;
+    top: 0px;
+    float: left;
+	width: 100px;
+    height: 35px;
+}
+div.pmapi-logintext {
+	position: absolute;
+    top: 70px;
+    float: left;
+	width: 120px;
+    height: 20px;
+}
+div.pmapi-login form,
+div.pmapi-login input
+{
+    display: inline;
+}
+
+.pmapilink {
+    background: none;
+    border: none;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
